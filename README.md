@@ -1,8 +1,3 @@
-give aws_access_key in line number 16 and aws_secret_key in line number 34 in variables.tf file of accepter account.
-
-run command (terraform apply -var-file="fixtures.us-east-2.tfvars") put Accepter and Requester vpc id of ohio region.
-
-
 ## Security & Compliance [<img src="https://cloudposse.com/wp-content/uploads/2020/11/bridgecrew.svg" width="250" align="right" />](https://bridgecrew.io/)
 
 Security scanning is graciously provided by Bridgecrew. Bridgecrew is the leading fully hosted, cloud-native solution providing continuous Terraform security and compliance.
